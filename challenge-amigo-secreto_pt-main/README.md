@@ -55,4 +55,6 @@ sortearAmigoSecreto();
     O sorteio é aleatório a cada execução.
 
 ### 👨‍🏫 Projeto escolar
-    Este projeto foi desenvolvido com fins educacionais juntamente com a Alura+One Oracle para praticar lógica de programação numa interação entre HTML e JavaScript.
+
+    Este projeto foi desenvolvido com fins educacionais juntamente com a Alura+One Oracle
+para praticar lógica de programação numa interação entre HTML e JavaScript.
